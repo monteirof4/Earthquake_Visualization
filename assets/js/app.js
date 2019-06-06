@@ -2,7 +2,7 @@
 // var queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
 var queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson"
 
-var faultUrl = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
+var faultUrl = "https://raw.githubusercontent.com/monteirof4/Earthquake_Visualization/master/assets/data/boundaries.json"
 
 function fillColors(mag) {
   var color = "#FF0000"
